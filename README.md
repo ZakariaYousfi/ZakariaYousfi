@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm zakaria👋
 
 <!--
 **ZakariaYousfi/ZakariaYousfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on some ML projects
+- 🌱 I’m currently learning machine learning
+- 📫 How to reach me: zakonaser@gmail.com
+- ⚙️ Technologies: html,css,javascript,typescript,python,java,clang,react,nodejs,express,nextjs,php,mysql,mongodb,neo4j,rest,graphql,docker
